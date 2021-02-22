@@ -1,0 +1,2 @@
+var regionAWS = '';
+var poolidAWS = '';
